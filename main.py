@@ -11,7 +11,7 @@ def isPrime(n):
  
     return True
  
-if isPrime(11):
+if isPrime(12):
     print("true")
 else:
     print("false")
